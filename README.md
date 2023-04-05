@@ -1,3 +1,3 @@
 # world_books
 
-Book catalog (Django)
+Online book catalog (Django)
